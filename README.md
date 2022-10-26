@@ -15,7 +15,7 @@ WIP
 
 - Recriar a página principal
 
-- Página: História da feijoada
+- Página: História da feijoada :ok:
 
 - Página: Receita da Feijoada
 
